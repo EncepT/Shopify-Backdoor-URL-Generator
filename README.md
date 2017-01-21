@@ -1,5 +1,5 @@
 # Shopify-Backdoor-URL-Generator
-Generates a URL for a Shopify powered site using simple post data.
+Generates a Backdoor URL for a Shopify powered site using simple post data,which allows you to add your desired product to your cart early.
 
 You can gather the ItemID if you put a .xml behind an item url
 as Example : https://kith.com/products/nike-air-force-1-low-retro-nyc-black-white.xml
