@@ -2,7 +2,7 @@
 #ITEMID  : 34972212423
 #INJECTIONPOINT : /cart/add/ + itemid
 
-__author__ = 'Nico Holubek'
+__author__ = 'EncepT // Shiba'
 import time
 import pyperclip
 
